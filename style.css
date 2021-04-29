@@ -1,5 +1,5 @@
 h1 {
-  font-family: helvetica, arial, sans-serif;
+  font-family: 'Lobster', cursive;
   text-align: center;
 }
 
@@ -50,7 +50,7 @@ button {
   width: 50%;
 }
 h2,h3{
-  font-family: helvetica, arial, sans-serif;
+  font-family: 'Oswald', sans-serif;
   text-align: center;
 }
 ul {
@@ -61,6 +61,7 @@ ul {
   background-color: white;
   position: absolute;
   top: 0;
+  font-family: 'Oswald', sans-serif;
 
 }
 
@@ -87,7 +88,11 @@ li a:hover:not(.active) {
 nav {
   display: block;
 }
+p{
+  font-family: 'Oswald', sans-serif;
+}
 footer{
   background-color: #90C5E9;
-  color: white;
+  color: black;
+  font-family: 'Oswald', sans-serif;
 }
